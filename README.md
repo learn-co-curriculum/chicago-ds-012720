@@ -31,26 +31,26 @@
 
 # Module 2 :book:
 
-| Topic                                                                                                                                  | Code        | Video     |
-| -----------                                                                                                                            | ----------- | --------- |
-| [Probability](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/sets_and_prob)                        |             |           |
-| [Sets & Probability](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/distributions)                 |             |           |
-| [Confidence Intervals](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/confidence_intervals%20copy) |             |           |
-| [Hypothesis Testing](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/hypothesis_testing)            |             |           |
-| [Power & Effect](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/power_and_effect)                  |             |           |
-| [Bayes](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/bayes)                                      |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
-|                                                                                                                                        |             |           |
+| Topic                                                                                                                                       | Code        | Video     |
+| -----------                                                                                                                                 | ----------- | --------- |
+| [Probability](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/sets_and_prob)                             |             |           |
+| [Sets & Probability](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/distributions)                      |             |           |
+| [Confidence Intervals](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/confidence_intervals%20copy)      |             |           |
+| [Hypothesis Testing](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/hypothesis_testing)                 |             |           |
+| [Power & Effect](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/power_and_effect)                       |             |           |
+| [Bayes](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/bayes)                                           |             |           |
+| [Extensions to Linear Regression](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_2/enhancing_regression)] |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
+|                                                                                                                                             |             |           |
 
 # Module 3 :thumbsup:
 
