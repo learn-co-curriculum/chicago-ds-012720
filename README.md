@@ -39,7 +39,7 @@
 | [Hypothesis Testing](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/hypothesis_testing)                 |             |           |
 | [Power & Effect](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/power_and_effect)                       |             |           |
 | [Bayes](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_1/bayes)                                           |             |           |
-| [Extensions to Linear Regression](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_2/enhancing_regression)] |             |           |
+| [Extensions to Linear Regression](https://github.com/learn-co-students/Chicago-ds-012720/tree/master/module_2/week_2/enhancing_regression) |             |           |
 |                                                                                                                                             |             |           |
 |                                                                                                                                             |             |           |
 |                                                                                                                                             |             |           |
