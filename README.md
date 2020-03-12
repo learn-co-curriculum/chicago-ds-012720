@@ -1,4 +1,4 @@
-## [Cohort Link](https://wework.zoom.com/j/293140696)
+## [Cohort Link](https://wework.zoom.com/j/2098295811)
 
 This is a zoom meeting space for your corhort to use. Consider this your virtual table :)
 
